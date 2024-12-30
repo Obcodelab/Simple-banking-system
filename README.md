@@ -146,3 +146,7 @@ cargo run
 - **Persistent Storage**:
 
   - Save account details to a file and reload them on subsequent program runs.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request with suggestions or improvements.
